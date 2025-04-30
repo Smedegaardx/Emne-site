@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.3 841.9">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #00aeef;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: #00a651;
+      }
+
+      .st2 {
+        fill: #d1d3d4;
+      }
+
+      .st3 {
+        fill: #fff200;
+      }
+
+      .st4 {
+        fill: #ed1c24;
+      }
+
+      .st5 {
+        fill: #808285;
+      }
+    </style>
+  </defs>
+  <path class="st5" d="M231,311.9c77.4,20.9,74.5,21.2,149.4,0,18-5.1,10.8-195.1,10.8-195.1,0,0,.5-20.2-16.1-20s-141.6,0-141.6,0c0,0-14.2-2.7-14.3,19.7s-6,190.5,11.9,195.4Z"/>
+  <rect class="st0" x="233.4" y="127.3" width="141.6" height="95"/>
+  <path class="st2" d="M253.4,246.9c-8.4,7.4-8.4,7,0,14.6,9.8,9,8-21.7,0-14.6Z"/>
+  <path class="st2" d="M276.3,239.9c-6.5-9.1-6.1-9.1-14.6-1.5-10,8.9,20.8,10.2,14.6,1.5Z"/>
+  <path class="st2" d="M284,262.1c8.3-7.5,8.3-7.1-.2-14.6-10-8.8-7.6,21.8.2,14.6Z"/>
+  <path class="st2" d="M260.6,269.2c6.7,9,6.2,9,14.6,1.3s-20.9-9.8-14.6-1.3Z"/>
+  <circle class="st3" cx="365.6" cy="276.2" r="7.6"/>
+  <circle class="st1" cx="350.3" cy="291" r="7.6"/>
+  <circle class="st4" cx="350.3" cy="260.9" r="7.6"/>
+  <circle class="st0" cx="335.1" cy="276.2" r="7.6"/>
+</svg>
