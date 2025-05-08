@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: "pixel";
+    src: url(/fonts/PixelifySans-VariableFont_wght.ttf)
+}
+@font-face {
+    font-family: "play";
+    src: url(/fonts/Play.ttf);
+}
+
+h1{
+    font-family: "pixel";
+    color: #FEDE00;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+h2, p{
+    font-family: "play";
+}
